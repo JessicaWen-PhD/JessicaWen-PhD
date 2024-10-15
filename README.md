@@ -7,7 +7,3 @@ I'm a PhD student at CMU working in Professor Ismaila Dabo's MOSAIC group to run
 - 📫 How to reach me: email or message me on GitHub and let me know what you want to talk about!
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I used to play chess for England as a teenager!
-
-## What's in this directory
-
-This directory is where I'll put my personal projects; you can find all my other projects in the other directories!
