@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me
 
-<!--
-**JessicaWen-PhD/JessicaWen-PhD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at CMU working in Professor Ismaila Dabo's MOSAIC group to run ab-initio computational models of materials and try and make the world a better place 🌍
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning QuantumESPRESSO and all the related simulation tools.
+- 💬 Ask me about how you as an engineer can have an outsized impact with your career!
+- 📫 How to reach me: email or message me on GitHub and let me know what you want to talk about!
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I used to play chess for England as a teenager!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's in this directory
+
+This directory is where I'll put my personal projects; you can find all my other projects in the other directories!
